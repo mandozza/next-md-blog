@@ -5,7 +5,7 @@ A simple application using nextjs to display blog posts created in Markdown.
 
 ## Screenshots
 
-![App Screenshot](screenshot.png)
+![App Screenshot](https://github.com/mandozza/next-md-blog/blob/main/screenshot.png)
 
 ## Tech Stack
 
